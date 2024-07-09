@@ -16,6 +16,10 @@
             integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
             crossorigin="anonymous"
         />
+
+        <link rel="stylesheet" href="style.css">
+        
+        <script defer src="/index.js"></script>
     </head>
 
     <body class="d-flex flex-column min-vh-100">
@@ -23,9 +27,15 @@
             <h1 class="text-center my-5">FOTBALOVÝ KVÍZ</h1>
         </header>
 
-        <main class="flex-grow-1 d-flex align-items-center justify-content-center">
-            <div class="container d-flex justify-content-center" id="question">
-                
+        <main class="flex-grow-1 d-flex flex-column gap-5 align-items-center justify-content-center">
+
+            <div id="liveAlertPlaceholder" style="height: 3rem;"></div>
+
+            <h2>
+                Skóre: <span id="score"></span>
+            </h2>
+            <div class="container d-flex justify-content-center">
+                <div class="card" style="width: 21rem; height: 25rem;" id="question">
             </div>
         </main>
 

@@ -24,11 +24,33 @@
         },
         {
             "text": "Kdo je tento hráč?",
-            "img": "https://livesport-ott-images.ssl.cdn.cra.cz/r900xfq60/253663da-4adb-4c1a-bc21-13021b6dde04.jpeg",
+            "img": "",
             "answers": [
                 {
                     "text": "Tomáš Soček",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Patrik Schick",
                     "isCorrect": true
+                },
+                {
+                    "text": "Jan Bořil",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Alex Král",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "Kdo je tento hráč?",
+            "img": "https://d16-a.sdn.cz/d_16/c_img_QP_Y/lBtn4.jpeg?fl=cro,0,54,999,749%7Cres,1200,,1%7Cjpg,80,,1",
+            "answers": [
+                {
+                    "text": "Tomáš Soček",
+                    "isCorrect": false
                 },
                 {
                     "text": "Patrik Schick",
@@ -36,7 +58,7 @@
                 },
                 {
                     "text": "Jan Bořil",
-                    "isCorrect": false
+                    "isCorrect": true
                 },
                 {
                     "text": "Alex Král",
