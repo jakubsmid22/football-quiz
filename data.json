@@ -5,7 +5,7 @@
             "img": "https://livesport-ott-images.ssl.cdn.cra.cz/r900xfq60/253663da-4adb-4c1a-bc21-13021b6dde04.jpeg",
             "answers": [
                 {
-                    "text": "Tomáš Soček",
+                    "text": "Tomáš Souček",
                     "isCorrect": true
                 },
                 {
@@ -24,10 +24,10 @@
         },
         {
             "text": "Kdo je tento hráč?",
-            "img": "",
+            "img": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/2021-06-18t163649z_1_210618-214713_mim.JPG",
             "answers": [
                 {
-                    "text": "Tomáš Soček",
+                    "text": "Tomáš Souček",
                     "isCorrect": false
                 },
                 {
@@ -49,7 +49,7 @@
             "img": "https://d16-a.sdn.cz/d_16/c_img_QP_Y/lBtn4.jpeg?fl=cro,0,54,999,749%7Cres,1200,,1%7Cjpg,80,,1",
             "answers": [
                 {
-                    "text": "Tomáš Soček",
+                    "text": "Tomáš Souček",
                     "isCorrect": false
                 },
                 {
@@ -63,6 +63,116 @@
                 {
                     "text": "Alex Král",
                     "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "Kdo je tento hráč?",
+            "img": "https://cz.forbesmedia.cz/uploads/2023/08/alex-kral.jpeg",
+            "answers": [
+                {
+                    "text": "Tomáš Souček",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Patrik Schick",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jan Bořil",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Alex Král",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "text": "Který český tým vyhrál Ligu mistrů v roce 2007?",
+            "img": "https://m.media-amazon.com/images/S/pv-target-images/0e1e543d919f9d69af6d07cc909ea61f4cd4be5b9c4e08c5f59599e8520bab05.jpg",
+            "answers": [
+                {
+                    "text": "AC Sparta Praha",
+                    "isCorrect": false
+                },
+                {
+                    "text": "SK Slavia Praha",
+                    "isCorrect": false
+                },
+                {
+                    "text": "FC Viktoria Plzeň",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Žádný český tým",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "text": "Kdo z těchto hráčů hrál nejvíce zápasů za českou reprezentaci?",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7UIrWiatlqxOpBQ22RfwjWhjuBcfpnyKi_w&s",
+            "answers": [
+                {
+                    "text": "Karel Poborský",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Pavel Nedvěd",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tomáš Rosický",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Petr Čech",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "Který český klub má nejvíce titulů v domácí lize?",
+            "img": "https://www.fotbalzpravy.cz/obrazek/6501b74f02b5e/mistrovsk-titul-pro-ronk-2022-23_900x600_612x408.jpg",
+            "answers": [
+                {
+                    "text": "AC Sparta Praha",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SK Slavia Praha",
+                    "isCorrect": false
+                },
+                {
+                    "text": "FC Viktoria Plzeň",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bohemians Praha 1905",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "Kdo je současným trenérem české reprezentace (2024)?",
+            "img": "https://img.freepik.com/free-vector/hand-drawn-soccer-game-strategy_1284-45687.jpg?t=st=1720544505~exp=1720548105~hmac=d1ee70b76c4b6b957cdb39bbf59f6366042c059138133958e5509f42bcf252e1&w=740",
+            "answers": [
+                {
+                    "text": "Jaroslav Šilhavý",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pavel Vrba",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Karel Jarolím",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ivan Hašek",
+                    "isCorrect": true
                 }
             ]
         }

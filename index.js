@@ -94,6 +94,7 @@ const loadQuestion = async () => {
             }
 
             updateScore();
+            loadQuestion();
         })
 
         answerContainer.append(answerE);
